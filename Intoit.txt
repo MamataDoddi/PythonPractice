@@ -1,0 +1,8 @@
+
+Hello myself, Welcome for learning
+
+python
+django
+java
+mysql
+postgres
