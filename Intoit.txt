@@ -10,3 +10,5 @@ git
 
 
 Thank you
+
+Completed lerning
