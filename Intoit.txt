@@ -8,7 +8,13 @@ mysql
 postgres
 git
 
+AWS
+Azure
 
 Thank you
 
+
+Completed cloud course
+
 Completed lerning
+
