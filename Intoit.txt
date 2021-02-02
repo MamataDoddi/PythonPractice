@@ -8,5 +8,7 @@ mysql
 postgres
 git
 
+AWS
+Azure
 
 Thank you
