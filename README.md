@@ -1,2 +1,0 @@
-# Fiber
-My practice repository
